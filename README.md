@@ -146,21 +146,22 @@ Minhas habilidades formam um ecossistema coeso, onde cada tecnologia complementa
 ### ⭐ Projetos em Destaque
 
 #### **[Orbitron Particle System]**  
-**Animação de Partículas Orbitais em Elipses**  
-[Link para o Repositório](#)
+**Animação de Partículas Orbitais em Elipses 2D**  
+[Link para o Repositório](#) *(Adicione o link se houver)*
 
-- **Descrição**: Um sistema de animação em React Native que simula partículas orbitando elipses com rotações 3D, expansões e caudas dinâmicas. Combina cálculos matemáticos para trajetórias elípticas com animações fluidas, resultando em um efeito visual futurista e interativo.  
+- **Descrição**: Um sistema de animação em React Native que simula partículas orbitando elipses em 2D, com rotações e expansões que criam uma ilusão de profundidade tridimensional. Combina cálculos matemáticos para trajetórias elípticas com animações fluidas, resultando em um efeito visual futurista e interativo.  
 - **Tecnologias Utilizadas**:  
   ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Reanimated](https://img.shields.io/badge/Reanimated-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 - **Detalhes Técnicos**:  
-  - **OrbitronParticle**: Partículas individuais com órbitas elípticas calculadas em tempo real, animadas via `withTiming` e `withRepeat`.  
-  - **ParticleTail**: Cauda de partículas com tamanhos e ângulos variáveis, criando um efeito de rastro.  
-  - **VerticalEllipse**: Elipse base com animações de rotação (3D), expansão e alongamento, sincronizada com partículas.  
-  - Usa `Reanimated 2` para performance otimizada no thread de UI, com transformações 3D e `Easing.linear` para movimentos suaves.
+  - **OrbitronParticle**: Partículas individuais com órbitas elípticas calculadas em 2D, animadas via `withTiming` e `withRepeat`.  
+  - **ParticleTail**: Cauda de partículas com tamanhos e ângulos variáveis, criando um efeito de rastro em 2D.  
+  - **VerticalEllipse**: Elipse base com animações de rotação e expansão no plano 2D, usando `rotateX` e `rotateY` para simular profundidade.  
+  - Usa `Reanimated 2` para performance otimizada no thread de UI, com `Easing.linear` para movimentos suaves em 2D.
 - **Demonstração**:  
   <div align="center">
     <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/raw/main/images/orbitron.gif" alt="Orbitron Demo" width="300" />
   </div>
+  
 ---
 ### 🌍 Idiomas
 
