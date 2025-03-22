@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+Marcelo+Rodrigo+Alexandre!" alt="Typing SVG" />
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/raw/main/images/orbitron.gif" alt="Meu GIF" width="100" style="margin-right: 20px;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=61DAFB¢er=true&vCenter=true&width=600&lines=Olá,+eu+sou+Marcelo+Rodrigo+Alexandre!" alt="Typing SVG" />
+  </div>
 </p>
 
 ---
@@ -180,3 +183,7 @@ Minhas habilidades formam um ecossistema coeso, onde cada tecnologia complementa
 <p align="center">
   <em>Explore meus repositórios e sinta-se à vontade para colaborar ou sugerir ideias!</em>
 </p>
+
+---
+
+
