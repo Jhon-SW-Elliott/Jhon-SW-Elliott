@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Jhon-SW-Elliott/Jhon-SW-Elliott** is a ✨android azure circleci dart firebase flutter git invision java jenkins kotlin mysql photoshop postgresql realm sketch sqlite xamarin xd _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Olá, eu sou [Seu Nome]! 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/[seu-usuario]?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/[seu-usuario]?style=social)
