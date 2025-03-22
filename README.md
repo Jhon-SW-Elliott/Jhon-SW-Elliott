@@ -142,6 +142,26 @@ Minhas habilidades formam um ecossistema coeso, onde cada tecnologia complementa
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
+
+### ⭐ Projetos em Destaque
+
+#### **[Orbitron Particle System]**  
+**Animação de Partículas Orbitais em Elipses**  
+[Link para o Repositório](#) *(Adicione o link se houver)*
+
+- **Descrição**: Um sistema de animação em React Native que simula partículas orbitando elipses com rotações 3D, expansões e caudas dinâmicas. Combina cálculos matemáticos para trajetórias elípticas com animações fluidas, resultando em um efeito visual futurista e interativo.  
+- **Tecnologias Utilizadas**:  
+  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Reanimated](https://img.shields.io/badge/Reanimated-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+- **Detalhes Técnicos**:  
+  - **OrbitronParticle**: Partículas individuais com órbitas elípticas calculadas em tempo real, animadas via `withTiming` e `withRepeat`.  
+  - **ParticleTail**: Cauda de partículas com tamanhos e ângulos variáveis, criando um efeito de rastro.  
+  - **VerticalEllipse**: Elipse base com animações de rotação (3D), expansão e alongamento, sincronizada com partículas.  
+  - Usa `Reanimated 2` para performance otimizada no thread de UI, com transformações 3D e `Easing.linear` para movimentos suaves.
+- **Demonstração**:  
+  <div align="center">
+    <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/raw/main/images/orbitron.gif" alt="Orbitron Demo" width="300" />
+  </div>
+---
 ### 🌍 Idiomas
 
 <div align="center">
