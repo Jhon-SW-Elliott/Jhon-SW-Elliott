@@ -63,7 +63,13 @@ Minhas habilidades formam um ecossistema coeso, onde cada tecnologia complementa
   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 - **Biblioteca de Animação**  
-  ![Reanimated](https://img.shields.io/badge/Reanimated-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<p align="center">
+  <div style="text-align: center;">
+    <img src="https://img.shields.io/badge/Reanimated-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Reanimated Badge" /><br>
+    <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/raw/main/images/Texto%20do%20seu%20par%C3%A1grafo.gif" alt="Meu GIF" width="130" style="margin-top: 10px;" />
+  </div>
+</p>
+
 
 #### 💻 Plataforma Desktop
 - **IDE**  
