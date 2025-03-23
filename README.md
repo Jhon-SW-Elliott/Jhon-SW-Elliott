@@ -143,12 +143,9 @@ Minhas habilidades formam um ecossistema coeso, onde cada tecnologia complementa
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
-
-### ⭐ Projetos em Destaque
-
 #### **[Orbitron Particle System]**  
 **Animação de Partículas Orbitais em Elipses 2D**  
-[Link para o Repositório](#) *(Adicione o link se houver)*
+[Link para o Repositório](#) 
 
 - **Descrição**: Um sistema de animação em React Native que simula partículas orbitando elipses em 2D, com rotações e expansões que criam uma ilusão de profundidade tridimensional. Combina cálculos matemáticos para trajetórias elípticas com animações fluidas, resultando em um efeito visual futurista e interativo.  
 - **Tecnologias Utilizadas**:  
@@ -162,7 +159,44 @@ Minhas habilidades formam um ecossistema coeso, onde cada tecnologia complementa
   <div align="center">
     <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/raw/main/images/orbitron.gif" alt="Orbitron Demo" width="300" />
   </div>
+
   
+---
+#### **[Ferramentas]**  
+**Paleta de Cores Hex com Seletor de Cores Gradiente**  
+- **Descrição**: Um sistema que contém cores predefinidas comuns para front-end e um sistema dinâmico de seleção de cores gradientes, com visualização de 50 fases para uma exibição harmoniosa e dinâmica, incluindo um círculo colorido que exibe o gradiente de forma interativa.  
+- **Tecnologias Utilizadas**:  
+    ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+    ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+- **Demonstração**:  
+  <div align="center">  
+    <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/blob/main/images/ds%20gradient.gif" alt="Orbitron Demo" width="300" />  
+  </div>  
+
+---
+
+**Seletor de Gradiente com Posicionamento Dinâmico**  
+- **Descrição**: Um sistema que permite posicionar o gradiente e selecionar as cores para visualização de posições dinâmicas.  
+- **Tecnologias Utilizadas**:  
+    ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+    ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+- **Demonstração**:  
+  <div align="center">  
+    <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/blob/main/images/gradient%20tool.gif" alt="Orbitron Demo" width="300" />  
+  </div>  
+
+---
+
+**Calculadora de Graus e Radianos**  
+- **Descrição**: Um sistema que permite calcular o grau oposto e o grau contrário, além de determinar o radiano exato dos resultados.  
+- **Tecnologias Utilizadas**:  
+    ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+    ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+- **Demonstração**:  
+  <div align="center">  
+    <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/blob/main/images/radianus%20calc.gif" alt="Orbitron Demo" width="300" />  
+  </div>  
+
 ---
 ### 🌍 Idiomas
 
