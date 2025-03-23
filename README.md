@@ -2,6 +2,7 @@
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/raw/main/images/orbitron.gif" alt="Meu GIF" width="100" style="margin-right: 20px;" />
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=61DAFB¢er=true&vCenter=true&width=600&lines=Olá,+eu+sou+Marcelo+Rodrigo+Alexandre!" alt="Typing SVG" />
+        <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/blob/main/images/12354.jpg" alt="Meu GIF" width="100" style="margin-right: 20px;" />
   </div>
 </p>
 
