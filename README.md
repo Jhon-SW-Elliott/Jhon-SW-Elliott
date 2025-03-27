@@ -1,40 +1,36 @@
 <p align="center">
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/raw/main/images/orbitron.gif" alt="Meu GIF" width="100" style="margin-right: 20px;" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=61DAFB¢er=true&vCenter=true&width=600&lines=Olá,+eu+sou+Marcelo+Rodrigo+Alexandre!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=61DAFB¢er=true&vCenter=true&width=600&lines=Hello,+I’m+Marcelo+Rodrigo+Alexandre!" alt="Typing SVG" />
         <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/blob/main/images/12354.jpg" alt="Meu GIF" width="100" style="margin-right: 20px;" />
   </div>
 </p>
 
 ---
 
-### 🌟 Sobre Mim
-Sou um entusiasta da tecnologia com uma jornada que começou aos 14 anos como técnico de informática e se expandiu para programação, robótica, inteligência artificial e operações aéreas. Com mais de 8 anos de experiência, combino habilidades técnicas, criatividade e inovação para criar soluções escaláveis e impactantes, unindo performance, usabilidade e visão estratégica.
+### 🌟 About Me
 
-- **Início**: Emancipado aos 16 anos para perseguir minha paixão por tecnologia.
-- **Formação**: Ciências e Engenharia da Computação + especialização em operações aéreas (defensivos agrícolas e combate a incêndio).
-- **Missão**: Desenvolver sistemas robustos que conectem diferentes domínios do conhecimento em soluções inovadoras.
-
+- Hey there! I’m Marcelo Rodrigo Alexandre, a passionate developer who loves building innovative, full-stack solutions. I thrive on blending creativity with technology to deliver efficient, user-friendly applications. 
 ---
 
 ### 🛠 Minhas Experiências
-Minhas habilidades se complementam, permitindo-me atuar em múltiplas frentes do desenvolvimento de software, desde interfaces de usuário até sistemas de alto desempenho e inteligência artificial.
+(....)
 
-- **Desenvolvimento Mobile**: Criação de aplicativos nativos com Java e Kotlin no Android Studio, e soluções multiplataforma com React Native e EAS.
-- **Front-End**: Construção de interfaces modernas e responsivas com React, HTML, CSS e ferramentas de design como Figma.
-- **APIs e Chatbots**: Desenvolvimento de APIs e chatbots inteligentes com IBM Watson, gerenciando integrações e chaves de API.
-- **Dados e Nuvem**: Manipulação de dados com Wrangler (Cloudflare), bancos como MySQL, MongoDB e Firebase, e computação em nuvem com AWS e Azure.
-- **Outras Tecnologias**: Otimização de sistemas embarcados com C++ e projetos de automação e IA com Python.
+- **Mobile Development**: Building native apps with Java and Kotlin in Android Studio, plus cross-platform solutions using React Native and EAS.
+- **Front-End**: Crafting modern, responsive interfaces with React, HTML, CSS, and design tools like Figma.
+- **APIs e Chatbots**: Creating smart APIs and chatbots with IBM Watson, handling integrations and API keys like a pro.
+- **Data & Cloud**: Managing data with Wrangler (Cloudflare), databases like MySQL, MongoDB, and Firebase, and cloud computing with AWS and Azure.
+- **Other Tech**: Optimizing embedded systems with C++ and diving into automation and AI projects with Python.
 
 ---
 
-### 🚀 O Que Estou Fazendo Agora
-Atualmente, foco em tecnologias que ampliam minha capacidade de entregar soluções completas e eficientes:
+### 🚀 What I’m Up To Now
+Right now, I’m focused on tech that helps me deliver top-notch, end-to-end solutions:
 
-- Desenvolvimento de aplicativos multiplataforma modernos com Flutter e Dart.
-- Criação de APIs e backends escaláveis com Node.js.
-- Uso de ferramentas de suporte como Git, Docker e VS Code para versionamento, conteinerização e desenvolvimento.
-- Exploração de design de interfaces com Figma e análise de dados com Power BI.
+- Building modern cross-platform apps with Flutter and Dart.
+- Developing scalable APIs and backends with Node.js.
+- Leveraging tools like Git, Docker, and VS Code for version control, containerization, and coding.
+- Exploring UI design with Figma and data analysis with Power BI.
 
 ---
 
