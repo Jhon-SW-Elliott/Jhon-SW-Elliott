@@ -42,7 +42,11 @@
 ### 🌟 About Me
 
 - Hey there! I’m Marcelo Rodrigo Alexandre, a passionate developer who loves building innovative, full-stack solutions. I thrive on blending creativity with technology to deliver efficient, user-friendly applications.
-- 
+
+<p align="center">
+  <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1fa-1f1f8.png" alt="USA Flag" height="100">
+</p>
+
 ---
 
 ### 🛠 My Experience
