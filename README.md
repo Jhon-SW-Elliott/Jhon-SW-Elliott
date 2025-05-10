@@ -172,7 +172,29 @@ My skill set is like a well-oiled machine—each tool works together to create a
   - Automated diet and training plan generation.
   - Clinical analysis, situational reports, and multi-area comparisons (physical and nutritional).
   - SSophisticated algorithms for evaluation, updates, and Firebase integration for secure authentication and sensitive data management.
+ 
+---
+### React Native
+#### **[ECO CHAT]**  
+**Chatbot with dynamic theme switching and advanced customization.**  
+[Link para o Repositório](#) 
 
+- **Tech Stack**:  
+  ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![MobX](https://img.shields.io/badge/MobX-764ABC?style=for-the-badge&logo=mobx&logoColor=white)
+  ![Reanimated](https://img.shields.io/badge/Reanimated-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+- **Description**: Developed as part of an academic project aligned with SDG 12, this app integrates a chatbot designed to support society with guidance on electronic waste recycling. It covers topics such as environmental and electronics-related legislation, legal requirements, collection points and how to locate them, as well as reuse and refurbishment. It also highlights the benefits of recycling, including the recovery of valuable materials. This project enhances my portfolio by showcasing my skills in React Native, JavaScript, and TypeScript, as well as state management, navigation, custom layout creation, and dynamic theme switching. Although still in the testing phase, the app is built to a professional standard and was developed independently, demonstrating my versatility.
+
+- **Demo**:  
+  <div align="center">
+    <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/raw/main/images/orbitron.gif" alt="Orbitron Demo" width="300" />
+  </div>
 
 ---
 ### React Native
