@@ -177,7 +177,7 @@ My skill set is like a well-oiled machine—each tool works together to create a
 ### React Native
 #### **[ECO CHAT]**  
 **Chatbot with dynamic theme switching and advanced customization.**  
-[Link para o Repositório](#) 
+[Link para o Repositório](https://github.com/Jhon-SW-Elliott/Extensao_Universitaria_Eco_Chat)
 
 - **Tech Stack**:  
   ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -191,10 +191,28 @@ My skill set is like a well-oiled machine—each tool works together to create a
 
 - **Description**: Developed as part of an academic project aligned with SDG 12, this app integrates a chatbot designed to support society with guidance on electronic waste recycling. It covers topics such as environmental and electronics-related legislation, legal requirements, collection points and how to locate them, as well as reuse and refurbishment. It also highlights the benefits of recycling, including the recovery of valuable materials. This project enhances my portfolio by showcasing my skills in React Native, JavaScript, and TypeScript, as well as state management, navigation, custom layout creation, and dynamic theme switching. Although still in the testing phase, the app is built to a professional standard and was developed independently, demonstrating my versatility.
 
-- **Demo**:  
-  <div align="center">
-    <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/raw/main/images/orbitron.gif" alt="Orbitron Demo" width="300" />
-  </div>
+### 🖼️ Demos
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/Jhon-SW-Elliott/Extensao_Universitaria_Eco_Chat/blob/main/main/assets/tema_dinamic_mobx.gif" alt="Demo 1" width="200"/>
+      <br><sub><b>Tema Dinâmico com MobX</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Jhon-SW-Elliott/Extensao_Universitaria_Eco_Chat/blob/main/main/assets/tema_dinamic.gif" alt="Demo 2" width="200"/>
+      <br><sub><b>Tema Dinâmico</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Jhon-SW-Elliott/Extensao_Universitaria_Eco_Chat/blob/main/main/assets/eco_chat_bot.gif" alt="Demo 3" width="200"/>
+      <br><sub><b>Eco Chat Bot</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Jhon-SW-Elliott/Extensao_Universitaria_Eco_Chat/blob/main/main/assets/drawer.gif" alt="Demo 4" width="200"/>
+      <br><sub><b>Drawer Navigation</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 ### React Native
