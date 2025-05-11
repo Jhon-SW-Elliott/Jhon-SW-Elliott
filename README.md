@@ -196,11 +196,11 @@ My skill set is like a well-oiled machine—each tool works together to create a
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/Jhon-SW-Elliott/Extensao_Universitaria_Eco_Chat/blob/main/main/assets/tema_dinamic_mobx.gif" alt="Demo 1" width="200"/>
+      <img src="https://github.com/Jhon-SW-Elliott/Extensao_Universitaria_Eco_Chat/blob/main/main/assets/tema_dinamico_mobx.gif" alt="Demo 1" width="200"/>
       <br><sub><b>Tema Dinâmico com MobX</b></sub>
     </td>
     <td align="center">
-      <img src="https://github.com/Jhon-SW-Elliott/Extensao_Universitaria_Eco_Chat/blob/main/main/assets/tema_dinamic.gif" alt="Demo 2" width="200"/>
+      <img src="https://github.com/Jhon-SW-Elliott/Extensao_Universitaria_Eco_Chat/blob/main/main/assets/tema_dinamico.gif" alt="Demo 2" width="200"/>
       <br><sub><b>Tema Dinâmico</b></sub>
     </td>
     <td align="center">
