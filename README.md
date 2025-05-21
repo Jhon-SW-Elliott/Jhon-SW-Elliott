@@ -113,101 +113,65 @@ Right now, I’m focused on tech that helps me deliver top-notch, end-to-end sol
 
 ---
 
-## 🧰 Technologies & Tools
+## 🌐 Cross-Platform: Technologies & Tools
 My skill set is like a well-oiled machine—each tool works together to create awesome, innovative projects.
 
-<table>
-  <tr>
-    <!-- 🌐 Cross-Platform -->
-    <td align="center" valign="top">
-      <b>🌐<br/>Cross-Platform</b><br/><br/>
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/MobX-764ABC?style=for-the-badge&logo=mobx&logoColor=white"/>
-    </td>
-    <!-- 📱 Android Native -->
-    <td align="center" valign="top">
-      <b>📱<br/>Android Native</b><br/><br/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-    </td>
-    <!-- 🌍 Web & Mobile Front-End -->
-    <td align="center" valign="top">
-      <b>🌍<br/>Web & Mobile</b><br/><br/>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><br/>
-      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><br/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/><br/>
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-    </td>
-    <!-- 💻 Desktop -->
-    <td align="center" valign="top">
-      <b>💻<br/>Desktop</b><br/><br/>
-      <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-    </td>
-    <!-- 📊 Machine Learning -->
-    <td align="center" valign="top">
-      <b>📊<br/>Machine Learning</b><br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/><br/>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-    </td>
-    <!-- 🎨 UI/UX -->
-    <td align="center" valign="top">
-      <b>🎨<br/>UI/UX</b><br/><br/>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/FlutterFlow-6B42F5?style=for-the-badge&logo=flutter&logoColor=white"/>
-    </td>
-    <!-- 🤖 Chatbots -->
-    <td align="center" valign="top">
-      <b>🤖<br/>Chatbots</b><br/><br/>
-      <img src="https://img.shields.io/badge/IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white"/>
-    </td>
-    <!-- ⚙️ APIs -->
-    <td align="center" valign="top">
-      <b>⚙️<br/>Standalone APIs</b><br/><br/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-    </td>
-    <!-- 🗄 Databases -->
-    <td align="center" valign="top">
-      <b>🗄<br/>Databases</b><br/><br/>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/><br/>
-      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-    </td>
-    <!-- ☁️ Cloud -->
-    <td align="center" valign="top">
-      <b>☁️<br/>Cloud</b><br/><br/>
-      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-    </td>
-    <!-- 🤝 Collaboration -->
-    <td align="center" valign="top">
-      <b>🤝<br/>Collaboration</b><br/><br/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-    </td>
-    <!-- 🖥 Operating Systems -->
-    <td align="center" valign="top">
-      <b>🖥<br/>Operating Systems</b><br/><br/>
-      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/><br/>
-      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
-    </td>
-  </tr>
-</table>
+### 📱 Frameworks
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MobX](https://img.shields.io/badge/MobX-764ABC?style=for-the-badge&logo=mobx&logoColor=white)
 
 ---
+
+### 🧠 Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### 🧪 Tools & Libraries
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![FlutterFlow](https://img.shields.io/badge/FlutterFlow-6B42F5?style=for-the-badge&logo=flutter&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+---
+
+### ☁️ Cloud & Collaboration
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 🖥 Operating Systems
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+
+
+---
+
 ### ⭐ Projects
 ### Android
 - **Tech Stack**:  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+  
 #### **[With Luck]**  
 **Data Analysis & Machine Learning for Lottery Insights**  
 [Link para o Repositório](https://github.com/Jhon-SW-Elliott/Extensao_Universitaria_With_Luck)
@@ -240,6 +204,7 @@ My skill set is like a well-oiled machine—each tool works together to create a
   ![MobX](https://img.shields.io/badge/MobX-764ABC?style=for-the-badge&logo=mobx&logoColor=white)
   ![Reanimated](https://img.shields.io/badge/Reanimated-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
   ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+  ![WATSON IBM](https://img.shields.io/badge/IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white)
 
 - **Description**: Developed as part of an academic project aligned with SDG 12, this app integrates a chatbot designed to support society with guidance on electronic waste recycling. It covers topics such as environmental and electronics-related legislation, legal requirements, collection points and how to locate them, as well as reuse and refurbishment. It also highlights the benefits of recycling, including the recovery of valuable materials. This project enhances my portfolio by showcasing my skills in React Native, JavaScript, and TypeScript, as well as state management, navigation, custom layout creation, and dynamic theme switching. Although still in the testing phase, the app is built to a professional standard and was developed independently, demonstrating my versatility.
 
