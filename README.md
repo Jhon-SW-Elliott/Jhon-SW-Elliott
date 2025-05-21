@@ -196,6 +196,10 @@ My skill set is like a well-oiled machine—each tool works together to create a
 <table>
   <tr>
     <td align="center">
+      <img src="https://github.com/Jhon-SW-Elliott/Extensao_Universitaria_Eco_Chat/blob/main/main/assets/eco_chat_bot_init.gif" alt="Demo 3" width="200"/>
+      <br><sub><b>Eco Chat Bot</b></sub>
+    </td>
+    <td align="center">
       <img src="https://github.com/Jhon-SW-Elliott/Extensao_Universitaria_Eco_Chat/blob/main/main/assets/tema_dinamico_mobx.gif" alt="Demo 1" width="200"/>
       <br><sub><b>Tema Dinâmico com MobX</b></sub>
     </td>
