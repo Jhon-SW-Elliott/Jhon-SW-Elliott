@@ -1,16 +1,13 @@
 <p align="center">
   <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1fa-1f1f8.png" alt="USA Flag" alt="Meu GIF" width="100" style="margin-right: 20px;" />
+  <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/raw/main/images/Design_Me.gif" alt="Meu GIF" width="100" style="margin-right: 20px;" />
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=61DAFB¢er=true&vCenter=true&width=600&lines=Hello,+I’m+Marcelo+Rodrigo+Alexandre!" alt="Typing SVG" />
-        <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/blob/main/images/1728918289339.jpeg" alt="Meu GIF" width="100" style="margin-right: 20px;" />
-        <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/raw/main/images/orbitron.gif" alt="Meu GIF" width="100" style="margin-right: 20px;" />
   </div>
 </p>
 
 ---
 
 <p align="center">
-  <strong>Escolha o idioma:</strong><br><br>
   <table>
   <tr>
     <!-- 🇧🇷 Português -->
