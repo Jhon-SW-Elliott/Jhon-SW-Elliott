@@ -242,11 +242,9 @@ My skill set is like a well-oiled machine—each tool works together to create a
 
 ---
 
-#### **[Orbitron Particle System]**  
-- **Tech Stack**:  
+#### 2D Orbitron Particle Orbital System Animation / **Tech Stack**:
   ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Reanimated](https://img.shields.io/badge/Reanimated-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  
-**2D Orbital Particle Animation**  
+
 [Repository](#) 
 
 <table>
