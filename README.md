@@ -287,16 +287,16 @@ My skill set is like a well-oiled machine—each tool works together to create a
 
 <table>
   <tr>
-    <td style="background-color:#009C3B; color:white; font-weight:bold; width:180px; text-align:center;">
-      Português (BR)
+    <td>
+        <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/raw/main/images/flags/BR.jpg" alt="Meu GIF" width="180" style="margin-right: 20px;" />
     </td>
     <td style="width:280px;">
       <strong>Nível:</strong> Nativo<br/>
       <strong>Escrito:</strong> Excelente<br/>
       <strong>Falado:</strong> Fluente e natural
     </td>
-    <td style="background-color:#E60026; color:white; font-weight:bold; width:180px; text-align:center;">
-      Español
+    <td>
+      <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/raw/main/images/flags/Espanha.jpg" alt="Meu GIF" width="180" style="margin-right: 20px;" />
     </td>
     <td style="width:280px;">
       <strong>Nivel:</strong> Intermedio avanzado<br/>
@@ -305,16 +305,16 @@ My skill set is like a well-oiled machine—each tool works together to create a
     </td>
   </tr>
   <tr>
-    <td style="background-color:#007ACC; color:white; font-weight:bold; width:180px; text-align:center;">
-      English
+    <td>
+      <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/raw/main/images/flags/EUA.jpg" alt="Meu GIF" width="180" style="margin-right: 20px;" />
     </td>
     <td style="width:280px;">
       <strong>Level:</strong> Advanced<br/>
       <strong>Written:</strong> Excellent, natural flow<br/>
       <strong>Spoken:</strong> Fluent, confident, professional communication
     </td>
-    <td style="background-color:#0055A4; color:white; font-weight:bold; width:180px; text-align:center;">
-      Français
+    <td>
+      <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/raw/main/images/flags/France.jpg" alt="Meu GIF" width="180" style="margin-right: 20px;" />
     </td>
     <td style="width:280px;">
       <strong>Niveau:</strong> Basique<br/>
@@ -323,8 +323,8 @@ My skill set is like a well-oiled machine—each tool works together to create a
     </td>
   </tr>
   <tr>
-    <td style="background-color:#BC002D; color:white; font-weight:bold; width:180px; text-align:center;">
-      日本語
+    <td>
+      <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/raw/main/images/flags/Japan.jpg" alt="Meu GIF" width="180" style="margin-right: 20px;" />
     </td>
     <td style="width:280px;">
       <strong>レベル:</strong> 初級<br/>
