@@ -263,23 +263,67 @@ My skill set is like a well-oiled machine—each tool works together to create a
 
   
 ---
-### WEB
-- **Tech Stack**:  
-    ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  
-#### **[Tools]**  
-**Hex Color Palette with Gradient Picker**  
-<table> <tr> <td> <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/blob/main/images/ds%20gradient.gif" alt="Hex Gradient Demo" width="200" /> </td> <td> <strong>Hex Color Palette with Gradient Picker</strong><br/> <strong>Description</strong>: A tool featuring common front-end color presets and a dynamic gradient color picker, showcasing 50 gradient phases for a smooth, vibrant display. Includes an interactive colored circle showing the gradient in action. </td> </tr> </table>
+### WEB TOOLS / **Tech Stack**: 
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
+<table>
+  <tr>
+    <!-- Card 1 -->
+    <td style="padding: 16px; vertical-align: top;">
+      <table>
+        <tr>
+          <td>
+            <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/blob/main/images/ds%20gradient.gif" alt="Hex Gradient Demo" width="200" />
+          </td>
+          <td style="padding-left: 16px;">
+            <strong>Hex Color Palette with Gradient Picker</strong><br/>
+            <strong>Description:</strong><br/>
+            A tool featuring front-end color presets<br/>
+            and a dynamic gradient color picker.<br/>
+            It showcases 50 gradient phases for a<br/>
+            smooth, vibrant display, including an<br/>
+            interactive circle that animates the gradient.
+          </td>
+        </tr>
+      </table>
+    </td>
+    <!-- Card 2 -->
+    <td style="padding: 16px; vertical-align: top;">
+      <table>
+        <tr>
+          <td>
+            <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/blob/main/images/gradient%20tool.gif" alt="Gradient Tool Demo" width="200" />
+          </td>
+          <td style="padding-left: 16px;">
+            <strong>Dynamic Gradient Picker with Positioning</strong><br/>
+            <strong>Description:</strong><br/>
+            A system to create and position gradients<br/>
+            with precision. Users can adjust direction,<br/>
+            color stops, and preview layouts dynamically.
+          </td>
+        </tr>
+      </table>
+    </td>
+    <!-- Card 3 -->
+    <td style="padding: 16px; vertical-align: top;">
+      <table>
+        <tr>
+          <td>
+            <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/blob/main/images/radianus%20calc.gif" alt="Radians Calculator Demo" width="200" />
+          </td>
+          <td style="padding-left: 16px;">
+            <strong>Degrees & Radians Calculator</strong><br/>
+            <strong>Description:</strong><br/>
+            A calculator for converting between<br/>
+            degrees and radians. It also provides<br/>
+            complementary and opposite angle results.
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-**Dynamic Gradient Picker with Positioning**  
-<table> <tr> <td> <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/blob/main/images/gradient%20tool.gif" alt="Gradient Tool Demo" width="200" /> </td> <td> <strong>Dynamic Gradient Picker with Positioning</strong><br/> <strong>Description</strong>: A system for positioning gradients and selecting colors to preview dynamic layouts. </td> </tr> </table>
-
----
-
-**Degrees & Radians Calculator**  
-<table> <tr> <td> <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/blob/main/images/radianus%20calc.gif" alt="Radians Calculator Demo" width="200" /> </td> <td> <strong>Degrees & Radians Calculator</strong><br/> <strong>Description</strong>: A tool to calculate opposite and complementary degrees, plus exact radian conversions. </td> </tr> </table>
   
  
 ---
