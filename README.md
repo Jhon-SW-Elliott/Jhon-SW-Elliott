@@ -1,8 +1,9 @@
 <p align="center">
   <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/raw/main/images/orbitron.gif" alt="Meu GIF" width="100" style="margin-right: 20px;" />
+  <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1fa-1f1f8.png" alt="USA Flag" alt="Meu GIF" width="100" style="margin-right: 20px;" />
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=61DAFB¢er=true&vCenter=true&width=600&lines=Hello,+I’m+Marcelo+Rodrigo+Alexandre!" alt="Typing SVG" />
         <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/blob/main/images/1728918289339.jpeg" alt="Meu GIF" width="100" style="margin-right: 20px;" />
+        <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/raw/main/images/orbitron.gif" alt="Meu GIF" width="100" style="margin-right: 20px;" />
   </div>
 </p>
 
@@ -10,17 +11,87 @@
 
 <p align="center">
   <strong>Escolha o idioma:</strong><br><br>
-  
- 
+  <table>
+  <tr>
+    <!-- 🇧🇷 Português -->
+    <td align="center" valign="top">
+      <a href="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/blob/main/images/README-pt.md">
+        <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1f7.png" width="40" alt="Brasil"/><br/>
+        <sub><b>Português</b></sub>
+      </a>
+    </td>
+    <!-- 🇬🇧 English -->
+    <td align="center" valign="top">
+      <a href="#">
+        <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1ec-1f1e7.png" width="40" alt="UK"/><br/>
+        <sub><b>English</b></sub>
+      </a>
+    </td>
+    <!-- 🇺🇸 English (US) -->
+    <td align="center" valign="top">
+      <a href="#">
+        <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1fa-1f1f8.png" width="40" alt="US"/><br/>
+        <sub><b>English (US)</b></sub>
+      </a>
+    </td>
+    <!-- 🏴 English (Scotland) -->
+    <td align="center" valign="top">
+      <a href="#">
+        <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f3f4-e0067-e0062-e0073-e0063-e0074-e007f.png" width="40" alt="Scotland"/><br/>
+        <sub><b>Scotland</b></sub>
+      </a>
+    </td>
+    <!-- 🇫🇷 Français -->
+    <td align="center" valign="top">
+      <a href="#">
+        <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1eb-1f1f7.png" width="40" alt="França"/><br/>
+        <sub><b>Français</b></sub>
+      </a>
+    </td>
+    <!-- 🇮🇹 Italiano -->
+    <td align="center" valign="top">
+      <a href="#">
+        <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1ee-1f1f9.png" width="40" alt="Itália"/><br/>
+        <sub><b>Italiano</b></sub>
+      </a>
+    </td>
+    <!-- 🇮🇱 Hebrew -->
+    <td align="center" valign="top">
+      <a href="#">
+        <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1ee-1f1f1.png" width="40" alt="Israel"/><br/>
+        <sub><b>עברית (Hebrew)</b></sub>
+      </a>
+    </td>
+    <!-- 🇸🇪 Svenska -->
+    <td align="center" valign="top">
+      <a href="#">
+        <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f8-1f1ea.png" width="40" alt="Suécia"/><br/>
+        <sub><b>Svenska</b></sub>
+      </a>
+    </td>
+    <!-- 🇵🇱 Polski -->
+    <td align="center" valign="top">
+      <a href="#">
+        <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1f5-1f1f1.png" width="40" alt="Polônia"/><br/>
+        <sub><b>Polski</b></sub>
+      </a>
+    </td>
+    <!-- 🇩🇰 Dansk -->
+    <td align="center" valign="top">
+      <a href="#">
+        <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e9-1f1f0.png" width="40" alt="Dinamarca"/><br/>
+        <sub><b>Dansk</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 ### 🌟 About Me
 
 - Hey there! I’m Marcelo Rodrigo Alexandre, a passionate developer who loves building innovative, full-stack solutions. I thrive on blending creativity with technology to deliver efficient, user-friendly applications.
-
-<p align="center">
-  <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1fa-1f1f8.png" alt="USA Flag" height="100">
-</p>
 
 ---
 
@@ -219,7 +290,7 @@ My skill set is like a well-oiled machine—each tool works together to create a
 
 - **Demo**:  
   <div align="center">
-    <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/raw/main/images/orbitron.gif" alt="Orbitron Demo" width="300" />
+    <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/raw/main/images/orbitron.gif" alt="Orbitron Demo" width="200" />
   </div>
 
   
@@ -234,7 +305,7 @@ My skill set is like a well-oiled machine—each tool works together to create a
 - **Description**: A tool featuring common front-end color presets and a dynamic gradient color picker, showcasing 50 gradient phases for a smooth, vibrant display. Includes an interactive colored circle showing the gradient in action. 
 - **Demo**:  
   <div align="center">  
-    <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/blob/main/images/ds%20gradient.gif" alt="Orbitron Demo" width="300" />  
+    <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/blob/main/images/ds%20gradient.gif" alt="Orbitron Demo" width="200" />  
   </div>  
 
 ---
@@ -243,7 +314,7 @@ My skill set is like a well-oiled machine—each tool works together to create a
 - **Description**: A system for positioning gradients and selecting colors to preview dynamic layouts.
 - **Demo**:  
   <div align="center">  
-    <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/blob/main/images/gradient%20tool.gif" alt="Orbitron Demo" width="300" />  
+    <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/blob/main/images/gradient%20tool.gif" alt="Orbitron Demo" width="200" />  
   </div>  
 
 ---
@@ -252,7 +323,7 @@ My skill set is like a well-oiled machine—each tool works together to create a
 - **Description**: A tool to calculate opposite and complementary degrees, plus exact radian conversions.
 - **Demo**:  
   <div align="center">  
-    <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/blob/main/images/radianus%20calc.gif" alt="Orbitron Demo" width="300" />  
+    <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/blob/main/images/radianus%20calc.gif" alt="Orbitron Demo" width="200" />  
   </div>  
   
  
