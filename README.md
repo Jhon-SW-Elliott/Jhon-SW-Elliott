@@ -169,8 +169,7 @@ My skill set is like a well-oiled machine—each tool works together to create a
 
 ---
 
-### ⭐ Projects
-### Android
+### ⭐ Android Projects
 - **Tech Stack**:  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
   
@@ -192,7 +191,7 @@ My skill set is like a well-oiled machine—each tool works together to create a
   - SSophisticated algorithms for evaluation, updates, and Firebase integration for secure authentication and sensitive data management.
  
 ---
-### React Native
+### React Native Projects
 #### **[ECO CHAT]**  
 **Chatbot with dynamic theme switching and advanced customization.**  
 [Link para o Repositório](https://github.com/Jhon-SW-Elliott/Extensao_Universitaria_Eco_Chat)
@@ -242,7 +241,7 @@ My skill set is like a well-oiled machine—each tool works together to create a
 </table>
 
 ---
-### React Native
+
 #### **[Orbitron Particle System]**  
 - **Tech Stack**:  
   ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Reanimated](https://img.shields.io/badge/Reanimated-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -250,12 +249,17 @@ My skill set is like a well-oiled machine—each tool works together to create a
 **2D Orbital Particle Animation**  
 [Link para o Repositório](#) 
 
-- **Description**:A React Native animation system simulating particles orbiting 2D ellipses, with rotations and expansions creating a 3D depth illusion. It combines math-driven elliptical trajectories with smooth animations for a futuristic, interactive visual effect.
+<table>
+  <tr>
+    <td>
+      <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/raw/main/images/orbitron.gif" alt="Orbitron Demo" width="200" />
+    </td>
+    <td>
+      <strong>Description</strong>: A React Native animation system simulating particles orbiting 2D ellipses, with rotations and expansions creating a 3D depth illusion. It combines math-driven elliptical trajectories with smooth animations for a futuristic, interactive visual effect.
+    </td>
+  </tr>
+</table>
 
-- **Demo**:  
-  <div align="center">
-    <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/raw/main/images/orbitron.gif" alt="Orbitron Demo" width="200" />
-  </div>
 
   
 ---
@@ -264,53 +268,72 @@ My skill set is like a well-oiled machine—each tool works together to create a
     ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   
 #### **[Tools]**  
- **Hex Color Palette with Gradient Picker**  
-- **Description**: A tool featuring common front-end color presets and a dynamic gradient color picker, showcasing 50 gradient phases for a smooth, vibrant display. Includes an interactive colored circle showing the gradient in action. 
-- **Demo**:  
-  <div align="center">  
-    <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/blob/main/images/ds%20gradient.gif" alt="Orbitron Demo" width="200" />  
-  </div>  
+**Hex Color Palette with Gradient Picker**  
+<table> <tr> <td> <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/blob/main/images/ds%20gradient.gif" alt="Hex Gradient Demo" width="200" /> </td> <td> <strong>Hex Color Palette with Gradient Picker</strong><br/> <strong>Description</strong>: A tool featuring common front-end color presets and a dynamic gradient color picker, showcasing 50 gradient phases for a smooth, vibrant display. Includes an interactive colored circle showing the gradient in action. </td> </tr> </table>
 
 ---
 
 **Dynamic Gradient Picker with Positioning**  
-- **Description**: A system for positioning gradients and selecting colors to preview dynamic layouts.
-- **Demo**:  
-  <div align="center">  
-    <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/blob/main/images/gradient%20tool.gif" alt="Orbitron Demo" width="200" />  
-  </div>  
+<table> <tr> <td> <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/blob/main/images/gradient%20tool.gif" alt="Gradient Tool Demo" width="200" /> </td> <td> <strong>Dynamic Gradient Picker with Positioning</strong><br/> <strong>Description</strong>: A system for positioning gradients and selecting colors to preview dynamic layouts. </td> </tr> </table>
 
 ---
 
 **Degrees & Radians Calculator**  
-- **Description**: A tool to calculate opposite and complementary degrees, plus exact radian conversions.
-- **Demo**:  
-  <div align="center">  
-    <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/blob/main/images/radianus%20calc.gif" alt="Orbitron Demo" width="200" />  
-  </div>  
+<table> <tr> <td> <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/blob/main/images/radianus%20calc.gif" alt="Radians Calculator Demo" width="200" /> </td> <td> <strong>Degrees & Radians Calculator</strong><br/> <strong>Description</strong>: A tool to calculate opposite and complementary degrees, plus exact radian conversions. </td> </tr> </table>
   
  
 ---
 ### 🌍 Languages
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Espanhol-F7DC6F?style=for-the-badge&logo=speakap&logoColor=black" alt="Spanish" /><br>
-        <em>Beginner-Intermediate</em>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Inglês-3498DB?style=for-the-badge&logo=speakap&logoColor=white" alt="English" /><br>
-        <em>Intermediate</em>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Francês-E74C3C?style=for-the-badge&logo=speakap&logoColor=white" alt="French" /><br>
-        <em>Basic Beginner</em>
-      </td>
-    </tr>
-  </table>
-</div>
+<table>
+  <tr>
+    <td style="background-color:#009C3B; color:white; font-weight:bold; width:180px; text-align:center;">
+      Português (BR)
+    </td>
+    <td style="width:280px;">
+      <strong>Nível:</strong> Nativo<br/>
+      <strong>Escrito:</strong> Excelente<br/>
+      <strong>Falado:</strong> Fluente e natural
+    </td>
+    <td style="background-color:#E60026; color:white; font-weight:bold; width:180px; text-align:center;">
+      Español
+    </td>
+    <td style="width:280px;">
+      <strong>Nivel:</strong> Intermedio avanzado<br/>
+      <strong>Escrito:</strong> Bueno, con buena gramática<br/>
+      <strong>Hablado:</strong> Conversacional con fluidez razonable
+    </td>
+  </tr>
+  <tr>
+    <td style="background-color:#007ACC; color:white; font-weight:bold; width:180px; text-align:center;">
+      English
+    </td>
+    <td style="width:280px;">
+      <strong>Level:</strong> Advanced<br/>
+      <strong>Written:</strong> Excellent, natural flow<br/>
+      <strong>Spoken:</strong> Fluent, confident, professional communication
+    </td>
+    <td style="background-color:#0055A4; color:white; font-weight:bold; width:180px; text-align:center;">
+      Français
+    </td>
+    <td style="width:280px;">
+      <strong>Niveau:</strong> Basique<br/>
+      <strong>Écrit:</strong> Niveau élémentaire<br/>
+      <strong>Parlé:</strong> Bases conversationnelles
+    </td>
+  </tr>
+  <tr>
+    <td style="background-color:#BC002D; color:white; font-weight:bold; width:180px; text-align:center;">
+      日本語
+    </td>
+    <td style="width:280px;">
+      <strong>レベル:</strong> 初級<br/>
+      <strong>書き:</strong> 基本的な単語と文法<br/>
+      <strong>話し:</strong> 簡単な会話
+    </td>
+  </tr>
+</table>
+
 
 ---
 
@@ -320,11 +343,11 @@ My skill set is like a well-oiled machine—each tool works together to create a
   <a href="https://www.linkedin.com/in/[seu-linkedin]">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <span>&nbsp;</span> <!-- Espaçador -->
+  <span>&nbsp;</span>
   <a href="mailto:seu-email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <span>&nbsp;</span> <!-- Espaçador -->
+  <span>&nbsp;</span>
   <a href="https://twitter.com/[seu-twitter]">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
