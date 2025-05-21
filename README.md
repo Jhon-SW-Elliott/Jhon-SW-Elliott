@@ -175,14 +175,14 @@ My skill set is like a well-oiled machine—each tool works together to create a
   
 #### **[With Luck]**  
 **Data Analysis & Machine Learning for Lottery Insights**  
-[Link para o Repositório](https://github.com/Jhon-SW-Elliott/Extensao_Universitaria_With_Luck)
+[Repository](https://github.com/Jhon-SW-Elliott/Extensao_Universitaria_With_Luck)
 
 - **Description**: A project that uses data analysis and machine learning to uncover strategic insights for lottery games. It identifies patterns in past draws, spotlighting "hot" numbers with up to 25x higher chances of being drawn and "cold" numbers that rarely show up. The model optimizes bets, making a 10-game combo as powerful as a 12-number Mega-Sena ticket.
 
 
 #### **[Step Wise]**  
 **Health & Wellness Solution with Biotech and Automation**  
-[Link para o Repositório](https://github.com/Jhon-SW-Elliott/Extensao_Universitaria_Stepwise_Saude_Bem_Estar)
+[Repository](https://github.com/Jhon-SW-Elliott/Extensao_Universitaria_Stepwise_Saude_Bem_Estar)
 
 - **Description**: An innovative health and wellness project tackling obesity with data analysis and biotech. It blends human anatomy, nutrition, and fitness with advanced automation, offering:
   - Nutritional and workout tracking with PDF reports. 
@@ -194,7 +194,7 @@ My skill set is like a well-oiled machine—each tool works together to create a
 ### React Native Projects
 #### **[ECO CHAT]**  
 **Chatbot with dynamic theme switching and advanced customization.**  
-[Link para o Repositório](https://github.com/Jhon-SW-Elliott/Extensao_Universitaria_Eco_Chat)
+[Repository](https://github.com/Jhon-SW-Elliott/Extensao_Universitaria_Eco_Chat)
 
 - **Tech Stack**:  
   ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -247,7 +247,7 @@ My skill set is like a well-oiled machine—each tool works together to create a
   ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Reanimated](https://img.shields.io/badge/Reanimated-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   
 **2D Orbital Particle Animation**  
-[Link para o Repositório](#) 
+[Repository](#) 
 
 <table>
   <tr>
