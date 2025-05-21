@@ -259,8 +259,7 @@ My skill set is like a well-oiled machine—each tool works together to create a
 ---
 ### WEB
 - **Tech Stack**:  
-    ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-    ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+    ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   
 #### **[Tools]**  
  **Hex Color Palette with Gradient Picker**  
