@@ -11,32 +11,7 @@
 <p align="center">
   <strong>Escolha o idioma:</strong><br><br>
   
-  <a href="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/blob/main/images/README-pt.md">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1f7.png" width="20" alt="Brasil"> Português
-  </a><br>
-
-  <a href="#"><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1ec-1f1e7.png" width="20" alt="UK"> English</a><br>
-
-  <a href="#"><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1fa-1f1f8.png" width="20" alt="US"> English (US)</a><br>
-
-  <a href="#"><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f3f4-e0067-e0062-e0073-e0063-e0074-e007f.png" width="20" alt="Scotland"> English (Scotland)</a><br>
-
-  <a href="#"><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1eb-1f1f7.png" width="20" alt="França"> Français</a><br>
-
-  <a href="#"><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1ee-1f1f9.png" width="20" alt="Itália"> Italiano</a><br>
-
-  <hr style="width: 60%;">
-
-  <p align="center">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1e7-1f1f7.png" width="25" alt="Brasil">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1ec-1f1e7.png" width="25" alt="UK">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1fa-1f1f8.png" width="25" alt="US">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f3f4-e0067-e0062-e0073-e0063-e0074-e007f.png" width="25" alt="Scotland">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1eb-1f1f7.png" width="25" alt="França">
-    <img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/72x72/1f1ee-1f1f9.png" width="25" alt="Itália">
-  </p>
-</p>
-
+ 
 
 ---
 ### 🌟 About Me
@@ -218,6 +193,10 @@ My skill set is like a well-oiled machine—each tool works together to create a
     </td>
     <td align="center">
       <img src="https://github.com/Jhon-SW-Elliott/Extensao_Universitaria_Eco_Chat/blob/main/main/assets/eco_chat_bot.gif" alt="Demo 3" width="200"/>
+      <br><sub><b>Eco Chat Bot</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/Jhon-SW-Elliott/Extensao_Universitaria_Eco_Chat/blob/main/main/assets/drawer_dsigner.gif" alt="Demo 3" width="200"/>
       <br><sub><b>Eco Chat Bot</b></sub>
     </td>
     <td align="center">
