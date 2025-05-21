@@ -1,7 +1,7 @@
 <p align="center">
   <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/raw/main/images/Design_Me.gif" alt="Meu GIF" width="100" style="margin-right: 20px;" />
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=61DAFB¢er=true&vCenter=true&width=600&lines=Hello,+I’m+Marcelo+Rodrigo+Alexandre!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=61DAFB¢er=true&vCenter=true&width=600&lines=Hello,+I’m+Marcelo+Rodrigo+Alexandre!" alt="Typing SVG" />
   </div>
 </p>
 
