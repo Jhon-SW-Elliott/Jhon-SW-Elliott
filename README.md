@@ -352,8 +352,8 @@ My skill set is like a well-oiled machine—each tool works together to create a
     </td>
     <td style="width:280px;">
       <strong>Level:</strong> Advanced<br/>
-      <strong>Written:</strong> Excellent, natural flow<br/>
-      <strong>Spoken:</strong> Fluent, confident, professional communication
+      <strong>Written:</strong> Intermediary<br/>
+      <strong>Spoken:</strong> Advanced Writing, Listening, and Speaking – Intermediate
     </td>
     <td>
       <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/raw/main/images/flags/France.jpg" alt="Meu GIF" width="180" style="margin-right: 20px;" />
