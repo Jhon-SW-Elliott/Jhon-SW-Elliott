@@ -181,7 +181,7 @@ My skill set is like a well-oiled machine—each tool works together to create a
 
 
 #### **[Step Wise]**  
-**Health & Wellness Solution with Biotech and Automation**  
+**Health & Wellness Solution with Biotech and Automation**  2023 ~ 2025
 [Repository](https://github.com/Jhon-SW-Elliott/Extensao_Universitaria_Stepwise_Saude_Bem_Estar)
 
 - **Description**: An innovative health and wellness project tackling obesity with data analysis and biotech. It blends human anatomy, nutrition, and fitness with advanced automation, offering:
@@ -192,7 +192,7 @@ My skill set is like a well-oiled machine—each tool works together to create a
  
 ---
 ### React Native Projects
-#### **[ECO CHAT]**  
+#### **[ECO CHAT]**  2024 ~ 2025
 **Chatbot with dynamic theme switching and advanced customization.**  
 [Repository](https://github.com/Jhon-SW-Elliott/Extensao_Universitaria_Eco_Chat)
 
