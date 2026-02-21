@@ -400,10 +400,13 @@ My skill set is like a well-oiled machine—each tool works together to create a
    <a href="https://github.com/Jhon-SW-Elliott">
   <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/raw/main/images/Design_Me.gif" alt="Marcelo Rodrigo Alexandre"  width="200" />
 </div>
+     
+<div align="center">
+  <a href="https://github.com/Jhon-SW-Elliott">
+      Marcelo Rodrigo Alexandre — Check out my repos and feel free to collaborate or drop some ideas!
+  </a>
+</div>
 
-<p align="center">
-  <em>Check out my repos and feel free to collaborate or drop some ideas!</em>
-</p>
 
 ---
 
