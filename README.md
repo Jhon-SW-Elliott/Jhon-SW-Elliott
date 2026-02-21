@@ -1,5 +1,6 @@
 <p align="center">
   <div style="display: flex; justify-content: center; align-items: center;">
+     <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/blob/main/images/u2-space-suit-2.jpg" alt="Meu GIF" width="100" style="margin-right: 20px;" />
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=61DAFB¢er=true&vCenter=true&width=600&lines=Hello,+I’m+Marcelo+R.+Alexandre!" alt="Typing SVG" />
   </div>
 </p>
