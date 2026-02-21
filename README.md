@@ -86,13 +86,13 @@
 
 
 ---
-### 🌟 About Me
+### About Me
 
 - Hey there! I’m Marcelo Rodrigo Alexandre, a passionate developer who loves building innovative, full-stack solutions. I thrive on blending creativity with technology to deliver efficient, user-friendly applications.
 
 ---
 
-### 🛠 My Experience
+### My Experience
 Here’s a rundown of what I’ve been working on:
 
 - **Mobile Development**: Building native apps with Java and Kotlin in Android Studio, plus cross-platform solutions using React Native and EAS.
@@ -103,7 +103,7 @@ Here’s a rundown of what I’ve been working on:
 
 ---
 
-### 🚀 What I’m Up To Now
+### What I’m Up To Now
 Right now, I’m focused on tech that helps me deliver top-notch, end-to-end solutions:
 
 - Building modern cross-platform apps with Flutter and Dart.
@@ -113,10 +113,10 @@ Right now, I’m focused on tech that helps me deliver top-notch, end-to-end sol
 
 ---
 
-## 🌐 Cross-Platform: Technologies & Tools
+## Cross-Platform: Technologies & Tools
 My skill set is like a well-oiled machine—each tool works together to create awesome, innovative projects.
 
-### 📱 Frameworks
+### Frameworks
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -125,7 +125,7 @@ My skill set is like a well-oiled machine—each tool works together to create a
 
 ---
 
-### 🧠 Programming Languages
+### Programming Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -140,7 +140,7 @@ My skill set is like a well-oiled machine—each tool works together to create a
 
 ---
 
-### 🧪 Tools & Libraries
+### Tools & Libraries
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
@@ -153,7 +153,7 @@ My skill set is like a well-oiled machine—each tool works together to create a
 
 ---
 
-### ☁️ Cloud & Collaboration
+### Cloud & Collaboration
  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -162,14 +162,14 @@ My skill set is like a well-oiled machine—each tool works together to create a
 
 ---
 
-### 🖥 Operating Systems
+### Operating Systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 
 ---
 
-### ⭐ Android Projects
+### Android Projects
 - **Tech Stack**:  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
   
@@ -209,7 +209,7 @@ My skill set is like a well-oiled machine—each tool works together to create a
 
 - **Description**: Developed as part of an academic project aligned with SDG 12, this app integrates a chatbot designed to support society with guidance on electronic waste recycling. It covers topics such as environmental and electronics-related legislation, legal requirements, collection points and how to locate them, as well as reuse and refurbishment. It also highlights the benefits of recycling, including the recovery of valuable materials. This project enhances my portfolio by showcasing my skills in React Native, JavaScript, and TypeScript, as well as state management, navigation, custom layout creation, and dynamic theme switching. Although still in the testing phase, the app is built to a professional standard and was developed independently, demonstrating my versatility.
 
-### 🖼️ Demos
+### Demos
 
 <table>
   <tr>
@@ -325,7 +325,7 @@ My skill set is like a well-oiled machine—each tool works together to create a
   
  
 ---
-### 🌍 Languages
+### Languages
 
 <table>
   <tr>
@@ -379,7 +379,7 @@ My skill set is like a well-oiled machine—each tool works together to create a
 
 ---
 
-### 📬 Let’s Connect!
+### Let’s Connect!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/marcelo-rodrigo-alexandre/">
