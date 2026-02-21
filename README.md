@@ -382,7 +382,7 @@ My skill set is like a well-oiled machine—each tool works together to create a
 ### 📬 Let’s Connect!
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/[seu-linkedin]">
+  <a href="https://www.linkedin.com/in/marcelo-rodrigo-alexandre/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <span>&nbsp;</span>
@@ -397,7 +397,8 @@ My skill set is like a well-oiled machine—each tool works together to create a
 
 ---
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[seu-usuario]&show_icons=true&theme=radical" alt="GitHub Stats" />
+   <a href="https://github.com/Jhon-SW-Elliott">
+  <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/blob/main/images/u2-space-suit-2.jpg" alt="GitHub Stats" />
 </div>
 
 <p align="center">
