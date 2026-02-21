@@ -1,4 +1,3 @@
-reescra em ingles como american:
 <p align="center">
   <div style="display: flex; justify-content: center; align-items: center;">
     <img src="https://github.com/Jhon-SW-Elliott/Jhon-SW-Elliott/raw/main/images/orbitron.gif" alt="Meu GIF" width="100" style="margin-right: 20px;" />
