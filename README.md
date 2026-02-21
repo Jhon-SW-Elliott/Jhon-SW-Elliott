@@ -403,7 +403,7 @@ My skill set is like a well-oiled machine—each tool works together to create a
      
 <div align="center">
   <a href="https://github.com/Jhon-SW-Elliott?tab=repositories">
-      Marcelo Rodrigo Alexandre — Check out my repos and feel free to collaborate or drop some ideas!
+     Check out my repos and feel free to collaborate or drop some ideas!
   </a>
 </div>
 
